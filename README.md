@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @abhiityagi
 - 👀 I’m interested in front end development
+- 🌱 interested and like to explore JAVA
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
